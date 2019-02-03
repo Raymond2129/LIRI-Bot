@@ -733,3 +733,57 @@ Country: United Kingdom
 Date: 08/24/2019
 Name: Charleville-Mézières
 City: Reading
+Invalid Instruction
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+---------------------------------------------------
+
+Release Year: 2009
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Title: Mr. Nobody
+
+---------------------------------------------------
+
+IMDB Rating: 7.8
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 67%
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+---------------------------------------------------
+
+Title: Dodgeball
+Language: English
+Plot: "Dodgeball" is the story of Rose, a new employee at a ruthless company where success is based upon how well you play in the weekly company dodgeball game. It's "team-building" taken to an ...
+Actors: Senta Moses Mikan, David Allen Brooks, Matt Price, Cece Tsou
+
+---------------------------------------------------
+
+IMDB Rating: 5.8
+Country: USA
+Release Year: 2001
+
+---------------------------------------------------
+
+Title: Dodgeball: A True Underdog Story
+Release Year: 2004
+Country: USA, Germany
+Actors: Vince Vaughn, Christine Taylor, Ben Stiller, Rip Torn
+
+---------------------------------------------------
+
+Plot: A group of misfits enter a Las Vegas dodgeball tournament in order to save their cherished local gym from the onslaught of a corporate health fitness chain.
+Language: English, German
+IMDB Rating: 6.7
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Invalid Instruction
+Invalid Instruction
