@@ -5,7 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^0.18.0",
-    "node-spotify-api": "^1.0.7"
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
