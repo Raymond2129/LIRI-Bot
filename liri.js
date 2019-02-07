@@ -57,7 +57,7 @@ else
 
 
 //list the url and add the artist name into the url
-var queryUrl = "https://rest.bandsintown.com/artists/"+artistName+"/events?app_id=codecademy";
+var queryUrl = "https://rest.bandsintown.com/artists/" + artistName + "/events?app_id=codecademy";
 
 //console.log(queryUrl)
 
