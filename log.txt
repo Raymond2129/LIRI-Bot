@@ -2372,3 +2372,773 @@ Album: The Hits--Chapter One
 ---------------------------------------------------
 
 Song: I Want It That Way
+Invalid Instruction
+
+---------------------------------------------------
+
+Date: 02/06/2019
+Name: Ice Hall
+City: Helsingfors
+Country: Finland
+
+---------------------------------------------------
+
+Name: Ericsson Globe Arena
+
+---------------------------------------------------
+
+City: Stockholm
+Date: 02/08/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Sweden
+Name: Telenor Arena
+City: Oslo
+Country: Norway
+Date: 02/11/2019
+
+---------------------------------------------------
+
+City: København V
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/12/2019
+Name: Barclaycard Arena
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/14/2019
+Name: Mercedes-Benz Arena
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2019
+Name: Atlas Arena
+City: Łódź
+Country: Poland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/16/2019
+Name: The O2 Arena
+City: Prague
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/17/2019
+Name: Wiener Stadthalle
+City: Vienna
+Country: Austria
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2019
+Name: Unipol Arena
+City: Bologna
+Country: Italy
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2019
+Name: Hallenstadion Zurich
+City: Zürich
+Country: Switzerland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/24/2019
+Name: Hanns-Martin-Schleyerhalle
+City: Stuttgart
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2019
+Name: Lanxess Arena
+City: Cologne
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/27/2019
+Name: Genting Arena
+City: Birmingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/09/2019
+City: Dublin
+
+---------------------------------------------------
+
+Date: 03/01/2019
+Name: Royal Arena
+
+---------------------------------------------------
+
+Country: Ireland
+Name: SSE Arena Belfast
+City: Belfast
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/04/2019
+Name: The SSE Hydro Arena
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+Name: 3Arena
+Date: 03/05/2019
+Name: Manchester Arena
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The SSE Arena Wembley
+City: London
+Date: 03/02/2019
+
+---------------------------------------------------
+
+Date: 03/08/2019
+Name: The SSE Arena Wembley
+City: London
+Country: United Kingdom
+Date: 03/07/2019
+
+---------------------------------------------------
+
+Date: 03/09/2019
+Name: The SSE Arena, Wembley
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United Kingdom
+
+---------------------------------------------------
+
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/12/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+Date: 03/11/2019
+
+---------------------------------------------------
+
+Date: 03/13/2019
+
+---------------------------------------------------
+
+City: Brussels
+Name: Palais 12
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Belgium
+Name: Bizkaia Arena (BEC!)
+City: Bilbao
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Accorhotels Arena
+
+---------------------------------------------------
+
+Date: 03/16/2019
+Country: Spain
+Name: WiZink Centre
+City: Madrid
+Date: 03/17/2019
+Name: Altice Arena
+City: Lisbon
+Date: 03/15/2019
+
+---------------------------------------------------
+
+Country: Portugal
+
+---------------------------------------------------
+
+Name: Asunciónico (March 28 - April 2)
+
+---------------------------------------------------
+
+Date: 03/28/2019
+
+---------------------------------------------------
+
+City: Asunción
+Date: 03/29/2019
+Name: Lollapalooza Chile: March 29 - 31
+City: Santiago
+Country: Paraguay
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/29/2019
+
+---------------------------------------------------
+
+City: Buenos Aires
+Country: Chile
+Name: Lollapalooza Argentina: March 29 - 31
+
+---------------------------------------------------
+
+Country: Argentina
+Name: Lollapalooza Brasil: April 5 - 7
+
+---------------------------------------------------
+
+Country: Brazil
+
+---------------------------------------------------
+
+City: São Paulo
+Date: 04/05/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Colombia
+Name: Estéreo Picnic: April 5 - 7
+City: Monterrey
+City: Bogotá
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/01/2019
+Name: Sports Palace
+City: Mexico City
+Date: 05/03/2019
+
+---------------------------------------------------
+
+Country: Mexico
+
+---------------------------------------------------
+
+Name: Sports Palace
+Country: Mexico
+Date: 05/04/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/06/2019
+Name: ARENA VFG
+City: Guadalajara
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/12/2019
+Name: Pepsi Live at Rogers Arena
+City: Mexico City
+Name: Arena Monterrey
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/14/2019
+Name: Scotiabank Saddledome
+City: Calgary
+Country: Canada
+Country: Mexico
+
+---------------------------------------------------
+
+Country: Canada
+Name: Rogers Place
+City: Edmonton
+City: Vancouver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/17/2019
+Name: Bell MTS Place
+Date: 05/15/2019
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Name: Budweiser Gardens
+City: London
+Country: Canada
+
+---------------------------------------------------
+
+City: Winnipeg
+Date: 05/20/2019
+
+---------------------------------------------------
+
+City: Ottawa
+Date: 05/21/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/22/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+Name: Richcraft Live at Canadian Tire Centre
+
+---------------------------------------------------
+
+Country: Canada
+
+---------------------------------------------------
+
+City: Toronto
+Country: Canada
+Name: Scotiabank Arena
+
+---------------------------------------------------
+
+Date: 05/29/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+
+---------------------------------------------------
+
+City: Toronto
+Date: 05/31/2019
+Name: Van Andel Arena
+City: Grand Rapids
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Scotiabank Arena
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Country: NY
+Country: United States
+City: Buffalo
+Date: 06/01/2019
+Date: 06/04/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: KeyBank Center
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+Date: 06/07/2019
+Name: PPG Paints Arena
+City: Pittsburgh
+Country: PA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/08/2019
+
+---------------------------------------------------
+
+Country: United States
+Country: NJ
+Country: United States
+City: Atlantic City
+
+---------------------------------------------------
+
+Date: 06/09/2019
+
+---------------------------------------------------
+
+Country: United States
+Name: Boardwalk Hall
+Country: United States
+City: Charlottesville
+Country: VA
+Name: John Paul Jones Arena
+Name: PNC Arena
+City: Raleigh
+Country: NC
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 06/11/2019
+Date: 06/12/2019
+Country: United States
+City: Charlotte
+Country: NC
+Date: 06/14/2019
+Name: Jacksonville Veterans Memorial Arena
+
+---------------------------------------------------
+
+Name: Spectrum Center
+
+---------------------------------------------------
+
+City: Jacksonville
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/16/2019
+
+---------------------------------------------------
+
+Date: 06/15/2019
+Country: FL
+Country: United States
+City: Orlando
+Name: American Airlines Arena
+Name: Amway Center
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/18/2019
+Name: Legacy Arena at the BJCC
+City: Birmingham
+
+---------------------------------------------------
+
+Date: 06/19/2019
+
+---------------------------------------------------
+
+Country: AL
+Country: United States
+Name: Smoothie King Center
+City: New Orleans
+Country: LA
+Date: 06/21/2019
+Name: Toyota Center
+
+---------------------------------------------------
+
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+Country: United States
+Date: 06/22/2019
+Name: AT&T Center
+City: San Antonio
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+Date: 06/23/2019
+City: Houston
+
+---------------------------------------------------
+
+City: Austin
+
+---------------------------------------------------
+
+Name: Frank Erwin Center
+
+---------------------------------------------------
+
+Country: TX
+
+---------------------------------------------------
+
+Name: Chesapeake Energy Arena
+Country: United States
+Country: OK
+
+---------------------------------------------------
+
+City: Oklahoma City
+Date: 06/25/2019
+Date: 06/26/2019
+Name: FedExForum
+City: Memphis
+Country: TN
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+City: Indianapolis
+Date: 06/28/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: IN
+Country: United States
+Name: Bankers Life Fieldhouse
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+Date: 06/29/2019
+Date: 06/30/2019
+
+---------------------------------------------------
+
+Name: Nationwide Arena
+Name: Nationwide Arena
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/13/2019
+Name: Sziget Festival
+Country: OH
+Country: United States
+City: Columbus
+
+---------------------------------------------------
+
+Country: Hungary
+Name: Charleville-Mézières
+City: Charleville-mézières
+Country: France
+
+---------------------------------------------------
+
+City: Budapest
+Date: 08/24/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/22/2019
+Name: Reading and Leeds Festival
+City: Reading
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Jason Aldean
+Preview: https://p.scdn.co/mp3-preview/beedd38bfa25480705718955612b341af39412bf?cid=4c76f8eaef9c407b8bcfd2691069dd37
+Album: Wide Open
+Song: Big Green Tractor
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Release Year: 1977
+IMDB Rating: 8.6
+Country: USA
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 93%
+Title: Star Wars: Episode IV - A New Hope
+Language: English
+
+---------------------------------------------------
+
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Title: Mr. Nobody
+Country: Belgium, Germany, Canada, France, USA, UK
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=4c76f8eaef9c407b8bcfd2691069dd37
+Artist: Backstreet Boys
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Song: The Sign
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=4c76f8eaef9c407b8bcfd2691069dd37
+Album: The Sign (US Album) [Remastered]
+Artist: Ace of Base
